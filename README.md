@@ -1,3 +1,3 @@
 # aesenil.art
 
-This is still a work in progress
+Work in progress art portfolio site
